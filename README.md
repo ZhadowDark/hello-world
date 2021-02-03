@@ -1,2 +1,4 @@
 # hello-world
-First repositoryu
+First repository
+
+learning the magic behind git n' github
