@@ -1,4 +1,4 @@
-# hello-world
+#Zhadow D. Ark
 First repository
 
-learning the magic behind git n' github
+Trying to make a personal Blog with HTML&CSS
